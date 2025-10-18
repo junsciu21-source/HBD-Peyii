@@ -612,19 +612,19 @@ function loadSpotifyPlaylist(playlistNumber) {
             // Ganti dengan playlist pertama kamu
             embedUrl: 'https://open.spotify.com/embed/playlist/37i9dQZF1DWYtQSOiZF6hj?si=0b945793c2934ba1',
             name: 'Birthday Special Mix',
-            description: 'Lagu-lagu spesial untuk hari istimewa kamu ✨'
+            description: 'Biar kerasa lagi Ulang Tahun di Luar Negri ✨'
         },
         2: {
             // Ganti dengan playlist kedua kamu
             embedUrl: 'https://open.spotify.com/embed/playlist/3gPSenyxZMdB3A54HeEruz?si=6b4dec830d4f4a48',
             name: 'Love Songs Collection',
-            description: 'Koleksi lagu cinta terbaik untuk kita ❤️'
+            description: 'Gatau sih, biar agak romance sikit eheh ❤️'
         },
         3: {
             // Ganti dengan playlist ketiga kamu
             embedUrl: 'https://open.spotify.com/embed/playlist/2ittdGvMZFWgIGIHo7lMTf',
-            name: 'Happy Memories',
-            description: 'Lagu-lagu yang mengingatkan kenangan indah 🌟'
+            name: 'Your Fav Songs :3',
+            description: 'From Your Playlistt 🌟'
         }
     };
     
@@ -1192,3 +1192,4 @@ function handleContinueNavigation() {
     }
 
 }
+
