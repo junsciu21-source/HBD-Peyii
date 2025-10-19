@@ -323,27 +323,27 @@ function startPhotoShow() {
     const photos = [
         {
             text: 'Your First Pap 💕',
-            image: './images/photo1.jpg'
+            image: './img/photo1.jpg'
         },
         {
             text: 'Also Your Pap :3 ❤️',
-            image: './images/photo2.jpg'
+            image: './img/photo2.jpg'
         },
         {
             text: 'Your first Appreciation To Me',
-            image: './images/photo3.jpg'
+            image: './img/photo3.jpg'
         },
         {
             text: 'My Favorite Smile eheh ❤️',
-            image: './images/photo4.jpg'
+            image: './img/photo4.jpg'
         },
         {
             text: 'Also My Favorite one 🥰',
-            image: './images/photo5.jpg'
+            image: './img/photo5.jpg'
         },
         {
             text: 'My First Gift to you ? 😂',
-            image: './images/photo6.jpg'
+            image: './img/photo6.jpg'
         },
     ];
     
@@ -1184,5 +1184,6 @@ function handleContinueNavigation() {
     }
 
 }
+
 
 
